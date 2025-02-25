@@ -1,2 +1,4 @@
 # learnci
 Learning CI/CD
+#EXAMPLE  CI_DBT
+#DUMMY PROJECT
